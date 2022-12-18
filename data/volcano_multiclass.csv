@@ -1,0 +1,959 @@
+volcano_type,volcano_number,latitude,longitude,elevation,tectonic_settings,major_rock_1
+Shield,283001,34.5,131.6,641,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,355096,-23.292,-67.618,6023,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,342080,14.501,-90.876,3976,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,213004,38.537,34.621,1683,Intraplate / Continental crust (>25 km),Rhyolite
+Stratovolcano,321040,46.206,-121.49,3742,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,283170,37.647,140.281,1728,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,221170,10.07,40.84,1733,Rift zone / Intermediate crust (15-25 km),Rhyolite
+Stratovolcano,221110,13.088,40.853,1250,Rift zone / Intermediate crust (15-25 km),Rhyolite
+Stratovolcano,284160,18.77,145.67,965,Subduction zone / Crustal thickness unknown,Basalt / Picro-Basalt
+Stratovolcano,342100,14.465,-90.743,3760,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,382090,37.77,-25.47,947,Rift zone / Oceanic crust (< 15 km),Trachyte / Trachydacite
+Stratovolcano,358062,-50.33,-73.75,2546,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,264020,-8.343,115.508,2997,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,284141,20.42,145.03,-75,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Other,282080,31.593,130.657,1117,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,300125,53.98,159.45,1180,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,283130,36.56,139.193,1828,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,285070,43.384,144.013,1499,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,283230,39.761,140.799,1637,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,283260,39.964,140.757,1366,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,282022,29.465,129.594,555,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,311320,54.134,-165.986,1303,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,290390,50.861,155.565,2285,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,221112,12.888,40.573,1496,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Shield,353040,-0.43,-91.12,1130,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,221090,13.512,40.631,988,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,221040,14.88,39.92,904,Rift zone / Intermediate crust (15-25 km),Rhyolite
+Stratovolcano,352031,-0.53,-78,4267,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,320020,60.42,-135.42,2217,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,342040,14.797,-91.519,3173,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,300450,56.656,159.647,2570,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,221060,13.793,40.553,578,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,221270,7.77,38.78,2335,Rift zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,311390,55.424,-163.149,488,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,268072,-0.53,127.48,1030,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Shield,257030,-15.389,167.835,1496,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,273088,17.32,121.1,2329,Subduction zone / Continental crust (>25 km),Dacite
+Other,266020,0.75,124.42,1795,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,254020,-4.08,153.65,450,Subduction zone / Crustal thickness unknown,Phono-tephrite /  Tephri-phonolite
+Other,233011,-12.6,49.15,1475,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,257040,-16.25,168.12,1334,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,234001,-37.83,77.52,881,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,311190,52.5,-171.252,1066,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,284200,16.35,145.67,790,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,300390,56.32,158.83,1828,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,354004,-15.42,-72.33,4713,Subduction zone / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Shield,390023,-75.8,-132.33,2978,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,257110,-20.2,169.78,852,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,312090,56.88,-158.17,1341,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,357153,-40.783,-72.15,1979,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,352030,-0.481,-78.141,5753,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,355180,-26.12,-67.4,3495,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,357080,-37.406,-71.349,2979,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,284060,32.458,139.759,423,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,358024,-41.88,-72.58,1210,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,343010,13.891,-89.786,2036,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,343071,13.72,-88.77,700,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,271030,6.989,125.269,2938,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,344091,12.242,-86.342,518,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,355160,-24.29,-67.783,6095,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,214060,40.53,44.2,4095,Intraplate / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,213040,39.7,44.3,5165,Intraplate / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,273084,15.2,120.742,1026,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,221126,11.58,42.47,298,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,345033,10.463,-84.703,1670,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,231090,15.63,44.08,3100,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,263290,-7.733,112.575,3339,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,305011,47.45,120.8,1677,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,300058,52.355,157.827,1910,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,283110,36.406,138.523,2568,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,385050,-7.95,-14.37,858,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,373060,65.033,-16.783,1080,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,282110,32.884,131.104,1592,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,221125,12.95,42.43,987,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,284150,19.671,145.406,857,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Other,282070,31.22,130.57,924,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,352021,-0.353,-78.617,4463,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,311160,52.331,-174.139,1448,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,320030,59.68,-133.32,1880,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,357023,-34.65,-70.05,5189,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,241020,-36.9,174.87,260,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,313010,59.363,-153.43,1252,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,300100,53.256,158.836,2717,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,331021,45.95,-130,-1410,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,302070,52.433,98.303,2765,Rift zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,355061,-21.787,-68.237,5846,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,353060,-0.92,-91.408,1640,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,357060,-35.653,-70.761,3788,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,283180,37.735,140.244,1949,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,274030,19.523,121.94,1080,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,322090,43.979,-121.688,2763,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,255020,-6.137,155.196,1855,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,300123,53.905,158.07,2278,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,321010,48.777,-121.813,3285,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,231170,14.067,48.3,604,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,250020,-2.57,147.28,254,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,271010,5.4,125.375,862,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,273050,14.07,121.48,2158,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,265090,-4.523,129.881,596,Subduction zone / Oceanic crust (< 15 km),Dacite
+Stratovolcano,283160,37.601,140.072,1816,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341020,19.3,-110.82,332,Rift zone / Oceanic crust (< 15 km),Trachyte / Trachydacite
+Stratovolcano,373030,64.633,-17.516,2000,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,300084,52.802,158.24,874,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,222030,2.32,36.57,1032,Rift zone / Continental crust (>25 km),Trachyte / Trachydacite
+Other,345050,10.135,-84.1,2906,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,275050,10.8,107.2,392,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,264010,-8.242,115.375,1717,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,355122,-25.414,-68.588,5413,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,225060,18.33,32.75,670,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Shield,322060,44.285,-121.841,2095,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,300640,57.88,160.53,2080,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,390022,-76.05,-136,3478,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,290040,44.462,146.932,1221,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,300250,55.972,160.595,2882,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,268073,-0.761,127.725,932,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,272080,11.523,124.535,1301,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,255011,-6.092,155.225,1544,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Other,231072,18.37,41.63,587,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,221220,8.78,38.98,1850,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,324010,43.183,-114.352,1478,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,327050,38.97,-112.5,1800,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,357102,-39.02,-70.37,1700,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,355210,-26.789,-67.765,4670,Subduction zone / Continental crust (>25 km),Rhyolite
+Other,311300,53.93,-168.03,150,Subduction zone / Intermediate crust (15-25 km),Trachyandesite / Basaltic Trachyandesite
+Other,300087,52.9,157.78,1200,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,300300,55.88,157.78,1906,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,300150,54.32,160.02,1720,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,300360,56.483,157.917,1401,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,221240,8.221,39.05,2267,Rift zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,221107,13.304,40.987,784,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,221210,8.558,39.475,2447,Rift zone / Continental crust (>25 km),Rhyolite
+Shield,386020,-54.408,3.351,741,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,351012,5.091,-75.293,3985,Subduction zone / Continental crust (>25 km),Dacite
+Other,371040,63.933,-21.783,610,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,320170,50.8,-123.4,2500,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,390080,-59.017,-26.533,1100,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,390010,-66.78,163.25,1239,Rift zone / Oceanic crust (< 15 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,311010,52.35,175.911,656,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,273010,12.769,124.056,1535,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,223004,-0.2,30.08,1554,Rift zone / Continental crust (>25 km),Foidite
+Other,221260,8.05,38.35,2281,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,264001,-8.283,115.133,2244,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,272050,10.285,125.218,912,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,357112,-39.25,-71.75,1652,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,273090,18.222,122.123,1133,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,357042,-35.558,-70.496,3508,Subduction zone / Continental crust (>25 km),Dacite
+Other,210040,38.87,-4.02,1117,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,358020,-41.33,-72.618,1974,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,357091,-37.92,-71.45,3164,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,224010,4.203,9.17,4095,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,271080,9.203,124.673,1552,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,274010,18.83,121.86,712,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Other,211010,40.827,14.139,458,Subduction zone / Continental crust (>25 km),Trachyte / Trachydacite
+Other,211070,37.1,12.7,-8,Rift zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,390100,-57.08,-26.67,550,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,357140,-40.35,-72.07,1114,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,327110,33.78,-105.93,1731,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,352006,0.029,-77.986,5790,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,320811,50.12,-123.28,2375,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,358012,-41.25,-72.27,506,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,341030,21.125,-104.508,2280,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,222010,3.496,36.04,518,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,263170,-6.895,108.408,3039,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,352022,-0.375,-78.25,4643,Subduction zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,290030,44.353,146.252,1822,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,354007,-16.191,-71.53,6057,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,352002,0.468,-78.287,4106,Subduction zone / Continental crust (>25 km),Dacite
+Other,210020,45.775,2.97,1464,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,305060,41.98,128.08,2744,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Other,300273,55.55,157.47,1868,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341080,19.08,-99.13,3930,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341120,17.36,-93.228,1150,Subduction zone / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,312110,57.135,-156.99,2221,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,290360,50.324,155.461,1781,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,351110,0.817,-77.938,4698,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,357070,-36.868,-71.378,3180,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,343090,13.478,-88.33,1300,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,342170,14.12,-89.73,1775,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,342200,14.83,-89.55,1192,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,290090,45.338,147.92,1587,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,290150,46.532,150.871,742,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,283220,39.099,140.049,2236,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,306020,38.33,127.33,452,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,222130,-2.68,37.88,2188,Rift zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,322150,43.241,-122.108,1956,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,323100,38.97,-122.77,1439,Subduction zone / Continental crust (>25 km),Dacite
+Other,331030,44.83,-130.3,-2140,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,343041,13.87,-89.55,746,Subduction zone / Continental crust (>25 km),Rhyolite
+Other,331020,46.52,-129.58,-2400,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,234050,-46.1,50.23,775,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,341096,19.492,-97.15,4282,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,341040,19.514,-103.62,3850,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,211004,41.73,12.7,949,Subduction zone / Continental crust (>25 km),Foidite
+Other,341012,26,-111.92,780,Rift zone / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,344120,11.538,-85.622,1700,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,357090,-37.856,-71.183,2953,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,221290,7.193,38.39,2320,Rift zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,355101,-23.743,-67.534,5852,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,382002,39.699,-31.111,718,Intraplate / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,344010,12.98,-87.57,872,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,352050,-0.677,-78.436,5911,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,358025,-42.018,-70.194,1344,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,322160,42.93,-122.12,2487,Subduction zone / Continental crust (>25 km),Dacite
+Other,324020,43.42,-113.5,2005,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,272010,9.25,123.17,1862,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,352003,0.308,-78.364,3246,Subduction zone / Continental crust (>25 km),Dacite
+Other,342111,14.33,-90.4,1454,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,351100,0.95,-77.87,4764,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,341098,19.15,-97.27,3940,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,221113,12.595,40.48,1401,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Shield,221114,12.38,40.07,1302,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,252040,-5.094,150.094,408,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,221141,11.28,41.63,1068,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,232010,35.951,52.109,5670,Intraplate / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Other,303040,45.754,114.279,1778,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,353030,-0.18,-91.28,1330,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,261210,-3.38,102.37,2467,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,322100,43.57,-121.82,2163,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,253060,-9.62,150.88,500,Subduction zone / Continental crust (>25 km),Rhyolite
+Other,390030,-63.001,-60.652,602,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,261230,-4.016,103.121,3142,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,357050,-35.58,-70.75,3953,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,322120,43.512,-120.861,1698,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,231120,14.57,44.67,3500,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,360080,15.612,-61.43,861,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,360090,15.503,-61.397,1430,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,322170,43.1,-118.75,1435,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,263200,-7.2,109.879,2565,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,300022,51.452,156.978,1040,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,357067,-36.638,-70.432,4702,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,221100,13.579,41.809,1625,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,268010,1.693,127.894,1229,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,341022,24.15,-104.45,2075,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,300110,53.637,158.922,2285,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,284201,15.93,145.67,-127,Subduction zone / Crustal thickness unknown,Dacite
+Shield,356011,-27.15,-109.38,511,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,290380,50.686,156.014,1103,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,222080,-0.65,36.22,2856,Rift zone / Continental crust (>25 km),Rhyolite
+Shield,353011,-0.02,-91.546,790,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,315040,57.05,-135.75,970,Intraplate / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,320060,57.72,-130.63,2786,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,214010,43.351,42.442,5642,Intraplate / Continental crust (>25 km),Dacite
+Shield,300590,57.55,160.53,1381,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,312020,55.341,-162.073,1436,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,222051,1.5,36.33,1285,Rift zone / Continental crust (>25 km),Trachyte / Trachydacite
+Other,331010,47.95,-129.1,-2050,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,257060,-16.68,168.37,833,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,213010,38.531,35.447,3864,Intraplate / Continental crust (>25 km),Dacite
+Stratovolcano,390020,-77.53,167.17,3794,Intraplate / Continental crust (>25 km),Phonolite
+Shield,221080,13.6,40.67,613,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,285011,41.805,141.166,618,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,374020,64.25,-16.583,1620,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,344131,13.17,-86.4,899,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,211060,37.748,14.999,3295,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,290050,44.808,147.131,1206,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Other,290070,45.012,147.871,1158,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,372020,63.633,-19.633,1651,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,284140,20.546,144.893,337,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,382010,38.6,-28.73,1043,Rift zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,221190,8.975,39.93,2007,Rift zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,311350,54.65,-164.43,1112,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,342140,14.308,-89.992,1600,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,382001,39.462,-31.216,914,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,384010,14.95,-24.35,2829,Intraplate / Intermediate crust (15-25 km),Foidite
+Other,223001,0.7,30.25,1615,Rift zone / Continental crust (>25 km),Foidite
+Other,320010,62.93,-137.38,1239,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Shield,233020,-21.244,55.708,2632,Intraplate / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,373070,65.416,-16.666,970,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,312010,55.067,-162.835,1728,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,342090,14.473,-90.88,3763,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,383050,28.358,-14.02,529,Intraplate / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,283030,35.361,138.728,3776,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,282091,32.657,128.849,315,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,382100,37.77,-25.32,805,Rift zone / Oceanic crust (< 15 km),Trachyte / Trachydacite
+Stratovolcano,221150,11.08,41.27,1459,Rift zone / Intermediate crust (15-25 km),Rhyolite
+Stratovolcano,221050,13.975,40.408,287,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,334070,0.792,-86.15,-2430,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,351080,1.22,-77.37,4276,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,255062,-9.35,159.73,1000,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,263140,-7.25,108.058,2168,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,268060,0.8,127.33,1715,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,300210,54.974,160.703,2539,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,268040,1.38,127.53,1635,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,320200,49.85,-123,2678,Subduction zone / Continental crust (>25 km),Dacite
+Other,320190,49.933,-123,2316,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,252030,-4.687,149.511,368,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,252060,-5.3,150.07,565,Subduction zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,257020,-14.27,167.5,797,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Other,221230,8.357,39.188,1873,Rift zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,263060,-6.77,106.965,3008,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,353081,0.32,-89.958,64,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,214070,40.283,45,3597,Intraplate / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,321020,48.112,-121.113,3213,Subduction zone / Continental crust (>25 km),Dacite
+Other,341097,19.33,-97.25,3500,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,323170,36.358,-118.32,2886,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,253041,-9.48,150.35,220,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,300070,52.559,158.03,1799,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,382040,39.02,-27.97,402,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,383040,28,-15.58,1950,Intraplate / Intermediate crust (15-25 km),Trachybasalt / Tephrite Basanite
+Other,344101,11.92,-85.98,300,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,371060,64.05,-20.883,200,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,373010,64.416,-17.316,1719,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,352020,-0.171,-78.598,4784,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,355093,-22.895,-67.566,5598,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,343052,13.9,-89.12,1438,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,221124,12.55,42.53,600,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,263130,-7.143,107.84,2249,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,284050,33.137,139.766,854,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,283250,39.958,140.854,1613,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,275001,19.905,110.229,196,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,283280,40.659,140.877,1585,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,283020,35.233,139.021,1438,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,283050,36.155,136.771,2702,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,332060,20.708,-156.25,3055,Intraplate / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,306040,33.361,126.53,1919,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,221022,13.72,42.73,422,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,252100,-5.33,151.1,1148,Subduction zone / Continental crust (>25 km),Dacite
+Other,231001,32.333,37.583,1100,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,283122,36.477,138.851,1449,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,213002,38.13,34.17,3253,Intraplate / Continental crust (>25 km),Dacite
+Other,275040,11.6,108.2,1000,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,231110,15.4,45.1,1550,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,241140,-35.004,178.973,-980,Subduction zone / Oceanic crust (< 15 km),Dacite
+Stratovolcano,234010,-53.106,73.513,2745,Intraplate / Oceanic crust (< 15 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,372070,63.983,-19.666,1490,Rift zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,370020,64.866,-23.283,986,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,324040,43.5,-112.45,1631,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,371050,64.083,-21.416,803,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,383020,27.73,-18.03,1500,Intraplate / Oceanic crust (< 15 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,283131,36.955,139.285,2356,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,390110,-56.712,-27.176,835,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,371090,64.833,-18.766,1765,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,285020,42.063,140.677,1131,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,222070,-0.38,34.5,1751,Rift zone / Continental crust (>25 km),Foidite
+Stratovolcano,322010,45.374,-121.695,3426,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,320080,56.78,-131.28,1850,Intraplate / Continental crust (>25 km),Phonolite
+Stratovolcano,371051,64.083,-21.333,550,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,332040,19.692,-155.87,2523,Intraplate / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,354005,-15.83,-72.13,4550,Subduction zone / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,357123,-39.887,-71.58,2189,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,354030,-16.608,-70.85,4850,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,390028,-74.33,-99.42,749,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,358057,-45.9,-72.97,1905,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,358030,-42.377,-72.578,1318,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,261280,-5.334,104.59,849,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,261200,-3.247,102.239,2122,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,341093,19.68,-97.45,3150,Subduction zone / Continental crust (>25 km),Rhyolite
+Other,253050,-9.52,150.53,200,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,268030,1.488,127.63,1325,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Shield,300710,58.4,161.08,1340,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,222161,-4.889,31.933,1146,Rift zone / Continental crust (>25 km),Foidite
+Stratovolcano,263350,-8.058,114.242,2769,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,300670,58.08,160.77,2300,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,313020,60.032,-153.09,3053,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,264220,-8.342,123.258,1659,Subduction zone / Crustal thickness unknown,Basalt / Picro-Basalt
+Stratovolcano,264240,-8.55,123.38,1018,Subduction zone / Crustal thickness unknown,Basalt / Picro-Basalt
+Stratovolcano,264170,-8.479,122.761,881,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Other,264250,-8.53,123.57,1018,Subduction zone / Crustal thickness unknown,Basalt / Picro-Basalt
+Stratovolcano,352041,-0.659,-78.714,5248,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,343060,13.672,-89.053,450,Subduction zone / Continental crust (>25 km),Dacite
+Other,352004,0.258,-78.183,4609,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,314060,65.517,-163.45,610,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,321070,45.93,-121.82,1806,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,357041,-35.123,-69.9,3007,Intraplate / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,264090,-8.73,120.98,1559,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,264080,-8.875,120.95,2245,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Other,284120,24.751,141.289,169,Subduction zone / Crustal thickness unknown,Trachyandesite / Basaltic Trachyandesite
+Other,282020,27.881,128.223,212,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,342190,14.55,-89.63,1650,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,345060,9.979,-83.852,3432,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341023,21.848,-105.886,95,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,273042,13.658,123.38,1966,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,211030,40.73,13.897,789,Subduction zone / Continental crust (>25 km),Trachyte / Trachydacite
+Other,320090,56.58,-130.55,1880,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,233014,-19.033,46.7,1800,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Other,231050,26.58,40.2,1625,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,283270,40.656,140.303,1625,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,283240,39.853,141.001,2038,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,342180,14.42,-89.68,1292,Subduction zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,264110,-8.891,121.641,618,Subduction zone / Crustal thickness unknown,Basalt / Picro-Basalt
+Other,263330,-7.97,113.57,3088,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,341082,19.179,-98.642,5230,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,284010,34.724,139.394,758,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,283010,34.9,139.098,1406,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,284090,30.484,140.303,394,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,268051,1.08,127.439,993,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Shield,390829,-64.15,-57.75,1630,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,376010,71.082,-8.155,2197,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,355036,-19.78,-66.48,5438,Subduction zone / Continental crust (>25 km),Dacite
+Other,355035,-19.463,-67.432,3650,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,322020,44.674,-121.8,3199,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,305040,44.08,128.83,1000,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,302060,52.713,99.021,2047,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,322190,43.147,-117.46,1473,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,261220,-3.522,102.615,1940,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,284097,26.667,140.929,-165,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Other,241010,-35.3,173.9,388,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,284100,26.127,141.102,-95,Subduction zone / Crustal thickness unknown,Basalt / Picro-Basalt
+Stratovolcano,311110,51.923,-177.168,1307,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,272020,10.412,123.132,2435,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,263020,-6.268,106.05,1768,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,213001,37.667,33.6,1302,Intraplate / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,223040,-1.506,29.45,4490,Rift zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,251030,-4.649,145.964,1839,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,233010,-11.75,43.38,2361,Intraplate / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,300130,54.049,159.443,1513,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,372030,63.633,-19.083,1490,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,312170,58.28,-154.963,2047,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,223003,-0.08,29.92,1067,Rift zone / Continental crust (>25 km),Foidite
+Stratovolcano,214020,42.7,44.5,5050,Intraplate / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,300500,57.1,159.93,1527,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,300410,56.4,158.85,1377,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,264140,-8.77,121.82,1639,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,300041,51.65,157.35,900,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,305020,49.37,125.92,670,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,263280,-7.93,112.308,1731,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,263110,-7.245,107.709,2594,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,234020,-49.58,69.5,1840,Intraplate / Oceanic crust (< 15 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,261170,-1.697,101.264,3800,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,290200,47.35,152.475,1172,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,303020,48.67,102.75,1886,Intraplate / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,290300,49.12,154.508,1145,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Other,231060,25,39.92,2093,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,300053,52.062,157.711,2039,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,360160,12.3,-61.64,-185,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,282060,30.793,130.305,704,Subduction zone / Oceanic crust (< 15 km),Rhyolite
+Stratovolcano,300180,54.489,160.251,1506,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,332010,19.421,-155.287,1222,Intraplate / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,282090,31.934,130.862,1700,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,231071,22.8,41.38,1475,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,284061,32.1,139.85,-360,Subduction zone / Oceanic crust (< 15 km),Rhyolite
+Stratovolcano,284110,25.424,141.284,792,Subduction zone / Crustal thickness unknown,Basalt / Picro-Basalt
+Stratovolcano,266120,1.454,125.031,1968,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,300260,56.056,160.642,4754,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,290120,46.042,150.083,1328,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Other,221200,8.788,39.701,1380,Rift zone / Continental crust (>25 km),Rhyolite
+Other,221320,5.1,35.88,912,Rift zone / Intermediate crust (15-25 km),Trachybasalt / Tephrite Basanite
+Shield,222054,0.77,36.12,1446,Rift zone / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,311161,52.381,-174.166,1518,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,300020,51.356,156.753,1822,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,300122,53.83,158.05,1150,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,225021,19.8,18.53,3415,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Other,284030,34.219,139.153,572,Subduction zone / Oceanic crust (< 15 km),Rhyolite
+Other,373080,65.715,-16.728,800,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,262000,-6.102,105.423,155,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,300190,54.596,160.27,1816,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,252070,-5.416,150.027,564,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,371030,63.883,-22.083,360,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,300050,51.844,157.572,1079,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,282050,30.443,130.217,657,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,282043,29.968,129.926,628,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,282120,33.086,131.249,1791,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,213000,38.58,28.52,750,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,304030,35.52,80.2,5808,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,283210,38.961,140.788,1627,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,300023,51.45,157.12,81,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,283120,36.618,138.528,2165,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,285080,43.615,144.427,574,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,285034,42.491,141.16,549,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,225040,14.57,25.85,1779,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,257070,-16.829,168.536,-2,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,373050,64.653,-16.647,1930,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,222170,-9.229,33.792,2176,Rift zone / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,383010,28.57,-17.83,2426,Intraplate / Oceanic crust (< 15 km),Trachybasalt / Tephrite Basanite
+Other,273080,14.42,121.27,743,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,344133,12.3,-85.73,926,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,263320,-7.981,113.341,1641,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,252010,-5.525,148.42,1330,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,371080,64.85,-19.7,1100,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,357122,-39.637,-71.502,3776,Subduction zone / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Other,383060,29.03,-13.63,670,Intraplate / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,355100,-23.37,-67.73,5592,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,323080,40.492,-121.508,3187,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,263260,-7.625,111.192,3265,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,222120,-2.764,35.914,2962,Rift zone / Continental crust (>25 km),Foidite
+Stratovolcano,271031,7.382,126.047,1080,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,264200,-8.365,122.833,1095,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Shield,300530,57.306,159.827,1318,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,320050,58.42,-131.35,2190,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,264180,-8.542,122.775,1703,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,360030,17.37,-62.8,1156,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,355092,-22.83,-67.88,5916,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,352081,-1.78,-78.613,3336,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,254010,-3.125,152.642,700,Subduction zone / Crustal thickness unknown,Trachybasalt / Tephrite Basanite
+Stratovolcano,211042,38.49,14.933,590,Subduction zone / Continental crust (>25 km),Rhyolite
+Other,370030,64.9,-22.483,1063,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,357110,-38.692,-71.729,3125,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,266100,1.358,124.792,1580,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,252071,-5.466,150.509,796,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,252130,-4.92,151.158,858,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,255030,-6.52,155.62,1887,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Other,251050,-5.358,147.12,1280,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,305050,42.33,126.5,1000,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,357100,-38.379,-71.586,2832,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,261111,1.478,99.209,1862,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,231040,25.17,37.75,1370,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,275020,15.38,109.12,157,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,242021,-30.21,-178.475,238,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,382120,32.73,-16.97,1862,Intraplate / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,272070,10.882,124.888,860,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,266110,1.352,124.865,1299,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,357021,-34.164,-69.832,5323,Subduction zone / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,311310,53.891,-166.923,1800,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Other,300140,54.135,159.674,1527,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,323150,37.631,-119.032,3369,Rift zone / Continental crust (>25 km),Trachyte / Trachydacite
+Other,253021,-9.08,148.33,1342,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,251020,-4.08,145.037,1807,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,221115,12.17,40.82,600,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,221122,12.38,42.2,600,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,272030,10.65,123.25,1885,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,225006,23.92,5.83,1672,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,261140,-0.38,100.474,2885,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,357092,-38.255,-71.167,2108,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,234070,-46.9,37.75,1230,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,273081,14.527,120.482,1388,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,327040,37.58,-112.67,2840,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,241061,-38.42,176.08,897,Subduction zone / Continental crust (>25 km),Rhyolite
+Other,225030,12.95,24.27,3042,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,222021,2.32,37.97,1707,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,312140,58.172,-155.361,1863,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,285061,43.418,143.031,2013,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,344100,11.985,-86.165,594,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,341031,20.62,-104.83,2560,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,285081,43.572,144.561,857,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,258010,-22.33,171.32,177,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,271020,6.37,125.07,2286,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,357061,-36.058,-70.492,2162,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,332030,19.82,-155.47,4205,Intraplate / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,332020,19.475,-155.608,4170,Intraplate / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,241021,-37.28,176.25,355,Subduction zone / Continental crust (>25 km),Rhyolite
+Other,320180,50.63,-123.5,2680,Subduction zone / Continental crust (>25 km),Dacite
+Shield,323020,41.611,-121.554,2412,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,221330,4.063,37.488,1111,Rift zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,283262,39.95,139.73,291,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,225050,15.32,26.47,2000,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,390015,-74.35,164.7,2732,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,263250,-7.54,110.446,2910,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,263240,-7.454,110.44,3118,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,222160,-3.25,36.75,4565,Rift zone / Continental crust (>25 km),Phonolite
+Other,212020,37.615,23.336,760,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,358040,-42.799,-72.445,2452,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341060,19.85,-101.75,3860,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,283080,36.571,137.59,2621,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,284041,33.874,139.602,851,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,320120,52.5,-128.73,335,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,290161,46.815,151.786,1504,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,212030,36.699,24.439,751,Subduction zone / Continental crust (>25 km),Rhyolite
+Other,284131,23.5,141.935,-107,Subduction zone / Crustal thickness unknown,Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,345030,10.748,-85.153,2028,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,284040,34.094,139.526,775,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,357130,-39.927,-72.027,2422,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,311111,51.944,-176.747,1196,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,352005,0.13,-78.27,4263,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,344110,11.826,-85.968,1344,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,344090,12.423,-86.539,1270,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,323110,38,-119.03,2121,Rift zone / Continental crust (>25 km),Dacite
+Other,323120,37.804,-119.029,2796,Rift zone / Continental crust (>25 km),Rhyolite
+Shield,390081,-58.445,-26.374,1370,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,390017,-78.5,163.53,2723,Intraplate / Continental crust (>25 km),Phonolite
+Stratovolcano,257001,-13.67,167.67,411,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,290100,45.389,148.838,1124,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,342130,14.03,-90.1,1662,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,223060,-1.383,29.678,4103,Rift zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,252021,-4.624,149.339,171,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,263251,-6.62,110.88,1625,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,300060,52.449,158.196,2288,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,284070,31.888,139.918,11,Subduction zone / Oceanic crust (< 15 km),Dacite
+Stratovolcano,283100,36.891,138.114,2454,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,245030,-19.12,177.98,805,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,282040,29.859,129.857,979,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Shield,222040,1.98,36.43,817,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,283141,36.765,139.491,2486,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341095,19.67,-96.75,2000,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,283200,38.729,140.734,470,Subduction zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,283150,37.125,139.963,1915,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,273082,14.72,120.4,1253,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,353050,-0.83,-91.17,1124,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,344070,12.506,-86.702,728,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,344092,12.12,-86.32,360,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,213020,38.654,42.229,2948,Intraplate / Continental crust (>25 km),Rhyolite
+Stratovolcano,360040,17.15,-62.58,985,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Shield,322110,43.722,-121.229,2434,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,259010,-37.77,142.5,1011,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,222164,-8.989,33.554,2614,Rift zone / Continental crust (>25 km),Trachyte / Trachydacite
+Other,283090,36.921,138.036,2400,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,284020,34.397,139.27,432,Subduction zone / Oceanic crust (< 15 km),Rhyolite
+Shield,283140,36.799,139.376,2578,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,285031,42.875,140.659,1308,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,290060,44.833,147.342,1634,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,212050,36.586,27.16,698,Subduction zone / Continental crust (>25 km),Dacite
+Shield,243110,-15.6,-175.63,260,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,283060,36.106,137.554,3026,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,257081,-17.47,168.353,594,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,334050,9.83,-104.3,-2500,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,283151,37.444,139.566,835,Subduction zone / Continental crust (>25 km),Dacite
+Other,284136,21.485,144.043,-1535,Subduction zone / Crustal thickness unknown,Basalt / Picro-Basalt
+Other,284211,14.601,144.775,-517,Subduction zone / Crustal thickness unknown,Basalt / Picro-Basalt
+Shield,222056,0.23,37.87,750,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,223020,-1.408,29.2,3058,Rift zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,223030,-1.52,29.25,3470,Rift zone / Continental crust (>25 km),Foidite
+Shield,300650,57.97,160.65,1764,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,221280,7.47,38.58,2075,Rift zone / Continental crust (>25 km),Rhyolite
+Shield,244010,-14.175,-169.618,639,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,355130,-27.109,-68.541,6879,Subduction zone / Continental crust (>25 km),Dacite
+Other,241050,-38.12,176.5,1111,Subduction zone / Continental crust (>25 km),Rhyolite
+Shield,283003,36.176,133.334,151,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,311290,53.43,-168.13,1073,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,224030,6.25,10.5,3011,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,222055,0.62,36.075,1130,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,355050,-20.939,-68.413,5705,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,222090,-0.904,36.292,2434,Rift zone / Continental crust (>25 km),Rhyolite
+Other,300052,52.02,157.53,681,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,210030,42.17,2.53,893,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,283142,36.795,139.507,2341,Subduction zone / Continental crust (>25 km),Dacite
+Other,283040,35.893,137.48,3067,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,300080,52.543,157.339,2439,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,374010,64.05,-16.633,2010,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,341100,19.03,-97.27,5564,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,345010,10.98,-85.473,1659,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,285010,41.51,139.367,732,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,283290,41.279,141.12,878,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,358010,-41.105,-72.496,2659,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,300055,52.146,157.322,719,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,300056,52.221,157.435,814,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,342110,14.382,-90.601,2569,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,284170,18.13,145.8,570,Subduction zone / Crustal thickness unknown,Basalt / Picro-Basalt
+Shield,222053,0.92,36.18,1697,Rift zone / Continental crust (>25 km),Trachyte / Trachydacite
+Other,358080,-52.082,-69.698,282,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,357022,-34.608,-70.295,4860,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,264150,-8.32,121.708,875,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Other,355042,-20.85,-68.2,5543,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,211041,38.638,15.064,399,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,211071,36.77,12.02,836,Rift zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,263100,-7.32,107.73,2665,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341081,19.308,-98.7,3600,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,355012,-18.166,-69.142,6336,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,263070,-7.162,107.4,2422,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,312030,55.417,-161.894,2493,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,357066,-36.422,-69.241,3715,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,360120,14.809,-61.165,1394,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,263291,-7.616,112.62,1631,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,390031,-62.1,-57.93,180,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,263040,-6.75,106.7,1699,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,261030,4.903,96.289,2785,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,382020,38.47,-28.4,2351,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,382081,37.78,-25.67,350,Rift zone / Oceanic crust (< 15 km),Trachybasalt / Tephrite Basanite
+Other,344080,12.495,-86.688,1088,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341001,31.772,-113.498,1200,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,273083,15.13,120.35,1486,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,357040,-35.223,-70.568,3977,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,360110,15.255,-61.341,940,Subduction zone / Oceanic crust (< 15 km),Dacite
+Stratovolcano,345034,10.3,-84.366,2267,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,390013,-72.67,165.5,3040,Intraplate / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,345040,10.2,-84.233,2708,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,273020,13.05,123.958,1102,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,300470,56.85,159.8,1427,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,275080,20.92,95.25,1518,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,341090,19.023,-98.622,5393,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,214090,40.028,45.74,3029,Intraplate / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,234040,-46.42,51.75,934,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,371070,64.583,-20.666,1385,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,234060,-46.63,37.95,672,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,390140,-55.912,-28.167,-55,Subduction zone / Oceanic crust (< 15 km),Rhyolite
+Stratovolcano,355107,-24.188,-68.054,6233,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,352011,0.038,-78.463,3356,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,357160,-40.969,-72.264,2493,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,351060,2.32,-76.4,4650,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,355094,-23,-67.75,5703,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,357150,-40.59,-72.117,2236,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,360140,13.83,-61.05,777,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,357121,-39.496,-71.722,2360,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,360020,17.478,-62.96,601,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,354000,-14.176,-71.351,3693,Subduction zone / Continental crust (>25 km),Rhyolite
+Other,252140,-4.271,152.203,688,Subduction zone / Continental crust (>25 km),Dacite
+Other,231070,23.08,39.78,1744,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,321030,46.853,-121.76,4392,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,264071,-8.62,120.52,2350,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,261251,-4.871,103.925,1854,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,242030,-29.27,-177.92,516,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,290220,47.77,153.02,956,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,263340,-8.119,114.056,3260,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,290020,43.979,145.733,882,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,311280,53.157,-168.539,1984,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Other,358063,-50.964,-73.585,1000,Subduction zone / Continental crust (>25 km),Dacite
+Other,327812,34.25,-108.83,2300,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,241060,-38.42,176.33,592,Subduction zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,352010,-0.077,-77.656,3562,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,371020,63.85,-22.566,140,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,345020,10.83,-85.324,1916,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,264030,-8.42,116.47,3726,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,344060,12.55,-86.75,832,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,390021,-78.25,163.33,3000,Intraplate / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,241100,-39.28,175.57,2797,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,290091,45.25,148.35,442,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,351020,4.892,-75.324,5279,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,241130,-35.745,178.478,-220,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,222166,-9.135,33.668,2953,Rift zone / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,290021,44.454,146.139,1486,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,360010,17.63,-63.23,887,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,354006,-15.787,-71.857,5960,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,355091,-22.72,-67.892,5971,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,263050,-6.72,106.73,2211,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,323200,33.197,-115.616,-40,Rift zone / Continental crust (>25 km),Rhyolite
+Other,214050,41.542,43.7,3290,Intraplate / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341007,28.5,-113.75,1360,Rift zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,344020,12.702,-87.004,1745,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,353120,-0.88,-89.5,759,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,343001,14.27,-89.48,781,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,329020,35.347,-111.678,3850,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,357020,-33.789,-69.895,6070,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341003,29.97,-114.4,180,Rift zone / Continental crust (>25 km),Rhyolite
+Shield,341110,18.57,-95.2,1650,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,273060,14.12,121.3,1090,Subduction zone / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,357062,-35.989,-70.849,3621,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,355070,-21.888,-68.391,6142,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341002,30.468,-115.996,260,Rift zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,343050,13.734,-89.294,1893,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,343070,13.595,-88.837,2182,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,283002,35.141,132.622,1126,Subduction zone / Continental crust (>25 km),Dacite
+Other,322040,44.38,-121.93,1664,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,352090,-2.005,-78.341,5286,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,264050,-8.2,119.07,1912,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,264060,-8.724,119.986,1319,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,343020,13.853,-89.63,2381,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,353091,-0.62,-90.33,864,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,351021,4.818,-75.365,4944,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,342030,14.757,-91.552,3745,Subduction zone / Continental crust (>25 km),Dacite
+Shield,353090,-0.22,-90.77,920,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,342150,14.33,-89.87,1192,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,212040,36.404,25.396,367,Subduction zone / Continental crust (>25 km),Dacite
+Other,261131,0.074,100.189,737,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,290240,48.092,153.2,1496,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,290080,45.1,148.019,1125,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,390090,-57.8,-26.483,843,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,244040,-13.612,-172.525,1858,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,255070,-9.13,159.82,485,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Other,231160,13.58,46.12,1737,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,390050,-65.03,-60.05,368,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,311180,52.315,-172.51,1054,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Other,261260,-5.107,104.317,1717,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,263300,-8.108,112.922,3657,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,311060,51.93,179.58,1221,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Other,341092,19.27,-97.47,3485,Subduction zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,265070,-6.312,130.017,608,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,382080,37.87,-25.78,856,Rift zone / Oceanic crust (< 15 km),Trachyte / Trachydacite
+Stratovolcano,261020,5.448,95.658,1810,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,300700,58.28,160.87,1936,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,323010,41.409,-122.193,4317,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,300270,56.653,161.36,3283,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,283121,36.688,138.519,2041,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,285040,42.688,141.38,1320,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,285090,44.133,145.161,1562,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,311360,54.756,-163.97,2857,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,261110,1.556,99.255,1819,Subduction zone / Continental crust (>25 km),Dacite
+Shield,222052,1.15,36.23,1528,Rift zone / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,272040,10.77,123.23,1510,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,320160,51.43,-126.3,3160,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,255050,-8.292,156.52,335,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,261080,3.17,98.392,2460,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,261070,3.248,98.501,2181,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,343002,14.054,-89.631,926,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,390025,-73.43,-126.67,3110,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,264270,-8.508,124.13,862,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,263180,-7.242,109.208,3428,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,300660,58.02,160.8,2169,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,341021,18.78,-110.95,1050,Rift zone / Oceanic crust (< 15 km),Trachyte / Trachydacite
+Other,326010,39.53,-118.87,1251,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,357111,-38.97,-71.52,2282,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,266030,1.112,124.737,1785,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,261120,0.686,99.539,2145,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,360060,16.044,-61.664,1467,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,360050,16.72,-62.18,915,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,360150,13.33,-61.18,1220,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,390070,-59.442,-27.225,1075,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Shield,320070,57.43,-130.68,2430,Intraplate / Continental crust (>25 km),Rhyolite
+Stratovolcano,313040,61.299,-152.251,3374,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,250010,-2.38,147.35,270,Subduction zone / Oceanic crust (< 15 km),Rhyolite
+Stratovolcano,360170,12.15,-61.67,840,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,321050,46.2,-122.18,2549,Subduction zone / Continental crust (>25 km),Dacite
+Shield,314040,63.45,-162.12,715,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,314010,57.18,-170.3,203,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,211040,38.789,15.213,924,Subduction zone / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,342160,14.4,-89.78,2042,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,252090,-5.5,150.942,610,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,352040,-0.538,-77.626,3990,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,261180,-2.414,101.728,2507,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,263220,-7.384,110.07,3371,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,284080,31.44,140.051,136,Subduction zone / Oceanic crust (< 15 km),Dacite
+Stratovolcano,263210,-7.3,109.992,3136,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,257010,-13.8,167.47,921,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Shield,222110,-1.151,36.357,2356,Rift zone / Continental crust (>25 km),Phonolite
+Stratovolcano,282030,29.638,129.714,796,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,273070,14.002,120.993,311,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,355011,-18.1,-69.5,5860,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,343072,13.435,-88.532,1172,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,341130,15.132,-92.109,4064,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,355010,-17.72,-69.77,5980,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,243120,-15.37,-174.23,-1400,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,342141,14.43,-89.9,1716,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,221010,15.55,41.83,244,Rift zone / Oceanic crust (< 15 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,285060,43.664,142.854,2291,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,283143,36.9,139.777,1795,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,390027,-76.28,-112.08,3460,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,263150,-7.208,108.07,2201,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,261130,0.079,99.98,2919,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,261160,-0.979,100.681,2575,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,264040,-8.25,118,2850,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,311080,51.885,-178.146,1806,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,261150,-0.39,100.331,2854,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,266130,1.518,125.185,1334,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,263090,-6.77,107.6,2084,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,290310,49.35,154.7,1325,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Other,268001,1.83,127.83,318,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,241030,-39.3,174.07,2518,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,303010,48.133,99.95,2326,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,281032,25.178,121.553,1120,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,244001,-14.23,-169.454,931,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,241070,-38.82,176,760,Subduction zone / Continental crust (>25 km),Rhyolite
+Shield,245010,-16.82,-179.97,1241,Subduction zone / Crustal thickness unknown,Basalt / Picro-Basalt
+Stratovolcano,343080,13.494,-88.502,1593,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,342120,14.156,-90.407,1845,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,344040,12.606,-86.84,1036,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,263231,-7.362,110.4,1864,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,261050,4.769,96.821,2617,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,213030,39.356,43.874,3514,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,383030,28.271,-16.641,3715,Intraplate / Oceanic crust (< 15 km),Phonolite
+Other,275110,25.23,98.5,2865,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,263310,-7.942,112.95,2329,Subduction zone / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,345031,10.673,-85.015,1916,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,221292,7.42,35.43,2728,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,382050,38.73,-27.32,1023,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,373090,65.833,-17.166,540,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,322070,44.133,-121.767,3159,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,268061,0.658,127.4,1730,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,343082,13.47,-88.43,1640,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,343130,13.272,-87.641,783,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,355105,-23.97,-68.13,3109,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,256010,-10.386,165.804,796,Subduction zone / Crustal thickness unknown,Andesite / Basaltic Andesite
+Stratovolcano,372040,63.783,-19.716,1464,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,357030,-34.814,-70.352,4280,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,300560,57.406,160.108,1523,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,373100,66.309,-17.118,-75,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,315060,55.25,-133.3,50,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,261090,2.58,98.83,2157,Subduction zone / Continental crust (>25 km),Dacite
+Other,268050,1.25,127.47,979,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,225001,17.68,8.5,1780,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,243060,-19.75,-175.07,515,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,225009,21.33,16.33,2000,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,285050,43.418,142.686,2077,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,300240,55.832,160.326,3611,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,357093,-38.31,-71.645,2739,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,351030,4.658,-75.33,5215,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,342070,14.612,-91.189,3158,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,341070,19.108,-99.758,4680,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,290010,43.844,145.504,535,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Other,224011,4.758,9.717,500,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,266070,1.23,124.83,1202,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,390026,-75.8,-115.83,3595,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,241080,-39.157,175.632,1978,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,372050,63.892,-19.122,1280,Rift zone / Oceanic crust (< 15 km),Rhyolite
+Stratovolcano,284011,34.52,139.279,508,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,225010,21.03,16.45,3265,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Other,283271,40.51,140.88,1011,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,285030,42.544,140.839,733,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,257090,-18.754,169.238,817,Subduction zone / Intermediate crust (15-25 km),Basalt / Picro-Basalt
+Stratovolcano,357101,-38.509,-70.898,2448,Intraplate / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,312160,58.236,-155.1,1864,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,386010,-37.092,-12.28,2060,Rift zone / Oceanic crust (< 15 km),Trachybasalt / Tephrite Basanite
+Other,360100,15.37,-61.33,1387,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,357081,-37.738,-70.906,2360,Subduction zone / Continental crust (>25 km),Dacite
+Stratovolcano,357072,-37.144,-70.033,4114,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,358011,-41.157,-71.885,3478,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,221250,8.159,39.137,2343,Rift zone / Continental crust (>25 km),Rhyolite
+Stratovolcano,373040,64.75,-17.916,1523,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,302050,51.5,102.5,1200,Rift zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,357010,-33.425,-69.797,5660,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,345070,10.025,-83.767,3340,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,244020,-14.295,-170.7,653,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,354040,-17.026,-70.372,5801,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,320031,59.37,-130.58,2123,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,355150,-24.05,-66.48,5486,Subduction zone / Continental crust (>25 km),Dacite
+Shield,300540,57.32,159.967,1516,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,323160,37.02,-117.45,752,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,300241,55.758,160.527,2886,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,302030,56.28,117.77,2180,Rift zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,312130,57.751,-156.368,1474,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,329010,36.38,-113.13,1555,Rift zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,312131,57.832,-156.51,91,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,300350,56.08,158.38,1692,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,306030,37.5,130.87,984,Intraplate / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Other,251060,-5.589,147.875,1548,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,263230,-7.18,110.33,2050,Subduction zone / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Other,282100,32.761,130.299,1483,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,244030,-13.935,-171.72,1100,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,290191,47.12,152.25,678,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,300261,56.113,160.509,3943,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,343081,13.419,-88.471,1449,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,343160,16.12,-86.882,74,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,231020,27.08,37.25,1920,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,300170,54.5,159.97,1617,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,244000,-14.215,-169.058,-592,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,214080,39.797,45.497,2575,Intraplate / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,233015,-19.85,46.942,2644,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,346030,8.58,-80.17,1185,Subduction zone / Continental crust (>25 km),Dacite
+Other,290370,50.55,155.97,1183,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,372010,63.416,-20.266,283,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,211020,40.821,14.426,1281,Subduction zone / Continental crust (>25 km),Phono-tephrite /  Tephri-phonolite
+Stratovolcano,253030,-9.2,149.07,1925,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,357120,-39.42,-71.93,2847,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,300083,52.7,158.28,2173,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,223050,-1.458,29.485,3696,Rift zone / Continental crust (>25 km),Trachyandesite / Basaltic Trachyandesite
+Stratovolcano,300059,52.43,157.93,1234,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,302040,53.75,113.25,1250,Unknown,Basalt / Picro-Basalt
+Stratovolcano,225020,20.92,17.28,3100,Intraplate / Continental crust (>25 km),Trachyte / Trachydacite
+Shield,300720,58.374,160.631,1103,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,211050,38.404,14.962,500,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Other,211003,42.6,11.93,800,Subduction zone / Continental crust (>25 km),Trachyte / Trachydacite
+Stratovolcano,300221,55.064,160.765,2129,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,390024,-77.17,-126.88,3292,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Shield,244050,-13.3,-176.17,143,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,324030,42.88,-113.22,1604,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,283071,36.408,137.594,2924,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,360101,15.307,-61.305,1224,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Other,320150,52.33,-120.57,2576,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,321060,45.88,-122.08,1329,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,210010,50.17,6.85,600,Rift zone / Continental crust (>25 km),Foidite
+Other,243130,-15.1,-173.75,-1174,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,311340,54.516,-164.65,1563,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,241040,-37.52,177.18,294,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,241011,-35.75,174.27,397,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,263270,-7.808,111.758,2563,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,252080,-5.576,150.516,724,Subduction zone / Continental crust (>25 km),Dacite
+Shield,315020,62.006,-144.017,4278,Intraplate / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,305030,48.72,126.12,597,Intraplate / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,283070,36.227,137.587,2455,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,231080,17.05,42.83,305,Intraplate / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,257100,-19.532,169.447,361,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,300021,51.533,156.629,646,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,325010,44.43,-110.67,2805,Rift zone / Continental crust (>25 km),Rhyolite
+Other,343150,14.98,-87.98,1090,Subduction zone / Continental crust (>25 km),Trachybasalt / Tephrite Basanite
+Stratovolcano,282021,28.797,128.997,495,Subduction zone / Oceanic crust (< 15 km),Andesite / Basaltic Andesite
+Stratovolcano,283031,36.087,138.32,2480,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,282081,31.771,130.592,40,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,285032,42.827,140.812,1888,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Stratovolcano,354050,-17.184,-70.196,5495,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,282130,33.282,131.39,1584,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,311210,52.643,-170.629,550,Subduction zone / Intermediate crust (15-25 km),Andesite / Basaltic Andesite
+Stratovolcano,343140,13.33,-87.63,640,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Other,283190,38.144,140.44,1841,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Shield,300480,56.88,159.95,1349,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Shield,344111,11.73,-85.82,629,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,300124,53.905,158.385,1567,Subduction zone / Continental crust (>25 km),Basalt / Picro-Basalt
+Stratovolcano,390130,-56.3,-27.57,551,Subduction zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Stratovolcano,300242,55.862,160.603,3057,Subduction zone / Continental crust (>25 km),Andesite / Basaltic Andesite
+Other,341061,19.4,-100.25,3500,Subduction zone / Continental crust (>25 km),Dacite
+Shield,221020,15.05,42.18,191,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Shield,221021,14.02,42.75,624,Rift zone / Oceanic crust (< 15 km),Basalt / Picro-Basalt
+Other,327120,34.8,-108,2550,Rift zone / Continental crust (>25 km),Basalt / Picro-Basalt
